@@ -23,9 +23,9 @@ const AboutSection = () => {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="md:col-span-2">
               <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-                Python Developer with strong fundamentals in backend development using Django, REST APIs, 
-                and PostgreSQL/MySQL. Experienced in building scalable web applications, integrating 
-                authentication and role-based access, and working with AWS, Docker, Git, and CI/CD workflows.
+                Python Developer with strong fundamentals in backend development using Django, REST APIs,
+                and PostgreSQL/MySQL. Experienced in building scalable web applications, integrating
+                authentication and role-based access, and working with AWS and Git.
               </p>
               <p className="text-muted-foreground text-lg leading-relaxed">
                 Passionate about clean code, problem-solving, and delivering reliable software solutions 

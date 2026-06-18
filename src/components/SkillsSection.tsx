@@ -16,11 +16,11 @@ const skillCategories = [
   },
   {
     title: "Cloud & DevOps",
-    skills: ["AWS", "Docker", "Git", "CI/CD", "Jenkins"],
+    skills: ["AWS", "Git"],
   },
   {
     title: "Databases",
-    skills: ["PostgreSQL", "MySQL", "MongoDB"],
+    skills: ["PostgreSQL", "MySQL"],
   },
   {
     title: "Tools",
