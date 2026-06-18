@@ -7,7 +7,7 @@ const education = [
     degree: "B.Tech in Computer Science (AI & ML)",
     school: "NSRIT — Nadimpalli Satyanarayana Raju Institute of Technology",
     period: "2022 — Present",
-    gpa: "7.56",
+    gpa: "7.69",
     location: "Visakhapatnam",
   },
   {

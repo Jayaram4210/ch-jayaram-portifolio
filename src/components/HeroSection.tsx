@@ -41,14 +41,6 @@ const HeroSection = () => {
             <span className="block text-2xl md:text-3xl font-light text-muted-foreground mt-2">Python Developer</span>
           </motion.h1>
 
-          <motion.h2
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.6, duration: 0.6 }}
-            className="text-2xl md:text-3xl font-light text-muted-foreground mb-6"
-          >
-            Python Developer
-          </motion.h2>
 
           <motion.p
             initial={{ opacity: 0 }}
