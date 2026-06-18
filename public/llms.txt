@@ -1,0 +1,9 @@
+# Jayaram Bhavani Prasad — Python Developer Portfolio
+
+> Personal portfolio of Chintala Jayaram Bhavani Prasad, a Python developer specializing in Django, REST APIs, and cloud-based web applications.
+
+The site showcases professional experience, skills, education, and projects, with contact details for collaboration and hiring inquiries.
+
+## Pages
+
+- [Home](/): Hero, about, skills, experience, projects, education, and contact sections.

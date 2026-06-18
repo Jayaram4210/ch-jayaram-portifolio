@@ -12,3 +12,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://ch-jayaram-portifolio.lovable.app/sitemap.xml
