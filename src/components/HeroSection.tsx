@@ -38,6 +38,7 @@ const HeroSection = () => {
           >
             Jayaram{" "}
             <span className="text-gradient">Bhavani Prasad</span>
+            <span className="block text-2xl md:text-3xl font-light text-muted-foreground mt-2">Python Developer</span>
           </motion.h1>
 
           <motion.h2
@@ -75,6 +76,7 @@ const HeroSection = () => {
               href="https://www.linkedin.com/in/chintala-jayaram-bhavani-prasad"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="LinkedIn profile"
               className="p-3 rounded-lg border border-border hover:border-primary/50 hover:text-primary transition-colors"
             >
               <Linkedin size={20} />
@@ -83,12 +85,14 @@ const HeroSection = () => {
               href="https://github.com"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="GitHub profile"
               className="p-3 rounded-lg border border-border hover:border-primary/50 hover:text-primary transition-colors"
             >
               <Github size={20} />
             </a>
             <a
               href="mailto:jayaramchinthala7890@gmail.com"
+              aria-label="Send email"
               className="p-3 rounded-lg border border-border hover:border-primary/50 hover:text-primary transition-colors"
             >
               <Mail size={20} />
